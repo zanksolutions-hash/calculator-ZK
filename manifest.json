@@ -1,7 +1,7 @@
 {
   "name": "ZANK Calculateur",
   "short_name": "ZANK Calc",
-  "start_url": "index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f6f5f0",
   "theme_color": "#111111",
